@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 0px;
+    align-content: center;
+    align-items: center;
+}
+
+form {
+    background-color: #dbb48a;
+    padding: 20px;
+    border-radius: 5px;
+    width: 350px;
+    align-content: center;
+    align-items: center;
+}
+
+
+fieldset {
+    margin-bottom: 15px;
+    border: 2px solid #5d4037;
+    padding: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 300px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #5D4037;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #937b61;
+}
